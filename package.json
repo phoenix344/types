@@ -1,7 +1,10 @@
 {
   "name": "@netrunner/types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript declaration files for generic interfaces",
+  "directories": {
+    "lib": "."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phoenix344/types.git"
