@@ -1,6 +1,6 @@
 {
   "name": "@netrunner/types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Typescript declaration files for generic interfaces",
   "directories": {
     "lib": "."
