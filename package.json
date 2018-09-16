@@ -1,0 +1,19 @@
+{
+  "name": "@netrunner/types",
+  "version": "1.0.0",
+  "description": "Typescript declaration files for generic interfaces",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoenix344/types.git"
+  },
+  "keywords": [],
+  "author": "phoenix344",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phoenix344/types/issues"
+  },
+  "homepage": "https://github.com/phoenix344/types#readme",
+  "devDependencies": {
+    "@types/node": "^10.9.4"
+  }
+}
